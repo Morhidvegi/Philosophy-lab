@@ -1,0 +1,17 @@
+{
+  "name": "Philosophy Lab — Long-Term Edition",
+  "short_name": "Philosophy Lab — Long-Term Edition",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#111213",
+  "theme_color": "#111213",
+  "description": "A long-term philosophy learning library with deep reading, history, concepts, quizzes, notes and active recall.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
